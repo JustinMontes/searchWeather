@@ -1,3 +1,5 @@
+// Auther: Justin Montes
+
 $(document).ready( function(){
 	$('.button').click( function(){
 		var city = $('.search').val();
